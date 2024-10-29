@@ -1,0 +1,15 @@
+body {
+    min-width: 300px;
+    padding: 10px;
+}
+
+.center {
+    padding-top: 12px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: left;
+}
